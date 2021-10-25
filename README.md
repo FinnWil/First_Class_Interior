@@ -22,23 +22,27 @@ up completion, we will meet with the client and present the outcome
 
 Jeremy Brokken
 ---------------------
-Project lead
+Team lead
 Project Manager
-Senior Business Analyst
+Business Analyst
+Assistant ScrumManager
+Assistant developer
 
 Felipe  Herbster Dias Siqueira
 ----------------------------------------
-Senior Software Architect
-Senior Developer
+Software Architect
+Developer
 
 Fei Li
 -------
-Senior Tester
-Senior Scrum Manager
+Tester
+Scrum Manager
+Assistant Business Analyst
 
 Finn Williams
 -----------------
 Quality Assurance Lead
-Senior User Interface Designer
-Senior User Experience Designer
+User Interface Designer
+User Experience Designer
+Assistant developer
 
